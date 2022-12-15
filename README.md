@@ -1,17 +1,14 @@
 # teste-ebac-ui
 
 
-Para abrir este projeto precisa-se:
 
 
-Abrir o terminal e digitar:
+Para instalar as dependências, execute o comando abaixo:
 ````
  yarn
  ````
- Para instalar as dependencias.
 
-Digitar 
+Para rodar os testes, execute o comando abaixo: 
 ````
 yarn start 
 `````
-Para para rodar os testes
